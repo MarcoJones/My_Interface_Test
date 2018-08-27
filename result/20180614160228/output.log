@@ -1,0 +1,19 @@
+2018-06-14 16:02:28,447 - root - INFO - *********TEST START***********
+2018-06-14 16:02:28,447 - root - INFO - login_ready
+2018-06-14 16:02:28,523 - root - INFO - Request Method:GET
+2018-06-14 16:02:28,523 - root - INFO - {}
+2018-06-14 16:02:28,663 - root - INFO - login - RequestCode:0 - Message:登陆成功
+2018-06-14 16:02:28,664 - root - INFO - login_passwd_error_ready
+2018-06-14 16:02:28,694 - root - INFO - Request Method:POST
+2018-06-14 16:02:28,694 - root - INFO - {'winsky.session.id': 'DF268AD728A24EF38286F80D475179E3'}
+2018-06-14 16:02:28,694 - root - INFO - login_passwd_error - RequestCode:1 - Message:登陆失败:用户或密码错误, 请重试.
+2018-06-14 16:02:28,696 - root - INFO - login_username_error_ready
+2018-06-14 16:02:28,730 - root - INFO - Request Method:POST
+2018-06-14 16:02:28,730 - root - INFO - {'winsky.session.id': '695B6958AFD345E19163EA8EAE7E7A3F'}
+2018-06-14 16:02:28,730 - root - INFO - login_username_error - RequestCode:1 - Message:登陆失败:用户或密码错误, 请重试.
+2018-06-14 16:02:28,734 - root - INFO - report path:J:\MyProject\InterfaceTest\result\20180614160228
+2018-06-14 16:02:28,736 - root - INFO - ['J:\\MyProject\\InterfaceTest\\result\\20180614160228\\output.log', 'J:\\MyProject\\InterfaceTest\\result\\20180614160228\\report.html']
+2018-06-14 16:02:28,736 - root - INFO - output.log
+2018-06-14 16:02:28,736 - root - INFO - report.html
+2018-06-14 16:02:29,173 - root - INFO - This is my first email test report.
+2018-06-14 16:02:29,173 - root - INFO - **********TEST ENDING***********
