@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/InterfaceTest.iml" filepath="$PROJECT_DIR$/.idea/InterfaceTest.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Appium_Android.iml" filepath="$PROJECT_DIR$/.idea/Appium_Android.iml" />
+>>>>>>> ea8e81a6e225c1d35d88594616f1059f66baf8d4
     </modules>
   </component>
 </project>
